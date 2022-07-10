@@ -1,5 +1,11 @@
 # Building a Recurring Neural Network(RNN) Long Short Term Memory(LSTM) for predicting gold closing prices using time-series data.
 # Instructions
+
+
+Tools: Python, Pandas, Numpy, matplotlib, tensorflow, sklearn, Nasdaq Account, Quandl API
+
+
+
 ## Initial Setup: 
 To ensure models' reproducibility, set the random seed for numpy and tensorflow libraries.
 
