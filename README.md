@@ -2,7 +2,7 @@
 # Instructions
 
 
-Tools: Python, Pandas, Numpy, matplotlib, tensorflow, sklearn, Nasdaq Account, Quandl API
+Tools: python, pandas, numpy, matplotlib, tensorflow, sklearn, Nasdaq, Quandl API
 
 
 
