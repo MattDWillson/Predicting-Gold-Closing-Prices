@@ -1,4 +1,4 @@
-# Recurring Neural Network(RNN) Long Short Term Memory(LSTM)
+# Recurrent Neural Network(RNN) Long Short Term Memory(LSTM)
 # Predicting Gold Closing Prices
 
 # Instructions
