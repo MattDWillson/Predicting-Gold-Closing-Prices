@@ -9,7 +9,7 @@ Tools: python, pandas, numpy, matplotlib, tensorflow, sklearn, Nasdaq, Quandl AP
 To ensure models' reproducibility, set the random seed for numpy and tensorflow libraries.
 
 ## Data Preparation
-In this section, you will retrieve the Gold historical prices from the London Bullion Market Association using the Quandl API. Be sure to have your Quandl API key at hand.
+Retrieve the Gold historical prices from the London Bullion Market Association using the Quandl API. Be sure to have your Quandl API key at hand.
 
 ## Data Retrieval
 1) Import your Quandl API key from an environment variable named quandl_key.
